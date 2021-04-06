@@ -1,5 +1,6 @@
 main() {
   int a = 2;
+  print(a);
 
   // tipo nome = valor
   int Function(int, int) soma1 = somaFn;

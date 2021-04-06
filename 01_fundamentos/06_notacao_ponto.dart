@@ -11,4 +11,5 @@ main() {
 
   String s5 = "leonardo leitão".substring(0, 8).toUpperCase().padRight(15, "!");
   print(s5);
+  print(s4);
 }

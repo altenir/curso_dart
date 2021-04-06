@@ -1,5 +1,3 @@
-import 'dart:async';
-
 main() {
   // Operadores Atribuição (binário/infix)
   double a = 2;

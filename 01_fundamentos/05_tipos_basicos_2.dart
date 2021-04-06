@@ -19,6 +19,7 @@ main() {
     'Joao': '+55 (11) 98222-4321',
     'Maria': '+55 (11) 98333-2344',
     'Pedro': '+55 (11) 98444-3454',
+    // ignore: equal_keys_in_map
     'Joao': '+55 (11) 77777-7777',
   }; // nao aceita repetição na chave
 

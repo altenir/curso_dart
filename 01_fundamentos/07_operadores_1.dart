@@ -1,5 +1,3 @@
-import 'dart:async';
-
 main() {
   // Operadores Aritméticos (binário/infix)
   int a = 7;
@@ -20,6 +18,7 @@ main() {
   bool ehFragil = true;
   bool ehCaro = false;
   print(ehFragil && ehCaro); // AND E
+  // ignore: dead_code
   print(ehFragil || ehCaro); // OR OU
   print(ehFragil ^
       ehCaro); // XOR OU Exclusivo (um dos dois tem que ser verdadeiro)
